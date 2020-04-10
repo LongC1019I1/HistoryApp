@@ -10,4 +10,4 @@ Route::get('/', function () {
 
 
 Route::view('/','index');
-Route::view('/movie','index');
+Route::view('/movie','show');
