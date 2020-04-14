@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MoviesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MoviesController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +167,8 @@
       <workItem from="1586505937630" duration="5880000" />
       <workItem from="1586593461261" duration="3376000" />
       <workItem from="1586597715912" duration="800000" />
-      <workItem from="1586771232166" duration="2090000" />
+      <workItem from="1586771232166" duration="2339000" />
+      <workItem from="1586852259659" duration="3587000" />
     </task>
     <servers />
   </component>
@@ -174,22 +176,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1114" y="274" width="426" height="504" key="FileChooserDialogImpl" timestamp="1586594248839">
+    <state x="1114" y="274" width="426" height="504" key="FileChooserDialogImpl" timestamp="1586855828545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1114" y="274" width="426" height="504" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586594248839" />
+    <state x="1114" y="274" width="426" height="504" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586855828545" />
     <state x="297" y="446" width="356" height="141" key="NewPhpFileDialog" timestamp="1585883663285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="297" y="446" width="356" height="141" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585883663285" />
-    <state x="643" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586771233032">
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586852259738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="643" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586771233032" />
-    <state x="142" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586772699197">
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586852259738" />
+    <state x="142" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586856358604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="142" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586772699197" />
+    <state x="142" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586856358604" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -206,13 +208,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/resources/views/index.blade.php</url>
-          <line>45</line>
+          <line>11</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/resources/views/index.blade.php</url>
-          <line>10</line>
-          <option name="timeStamp" value="4" />
+          <line>5</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
